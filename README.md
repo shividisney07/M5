@@ -1,7 +1,7 @@
 # EX-21-POINTERS
 
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : U.Deepika
+## Register Number : 212225040060
 ## AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
@@ -37,8 +37,8 @@ Thus the program to convert a 23.65 into 25 using pointer has been executed succ
 
 # EX-22-FUNCTIONS AND STORAGE CLASS
 
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : U.Deepika
+## Register Number : 212225040060
 
 ## AIM:
 
@@ -90,8 +90,8 @@ Thus the program has been executed successfully.
 
 # EX-23-ARRAYS AND ITS OPERATIONS
 
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : U.Deepika
+## Register Number : 212225040060
 
 ## AIM:
 
@@ -143,8 +143,8 @@ int main()
 
 # EX-24-STRINGS
 
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : U.Deepika
+## Register Number : 212225040060
 
 ## AIM:
 
@@ -195,8 +195,8 @@ Thus the C program to String process executed successfully.
 
 
 # EX -25 –DISPLAYING ARRAYS USING POINTERS
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : U.Deepika
+## Register Number : 212225040060
 ## AIM
 
 Write a c program to read and display an array of any 6 integer elements using pointer
@@ -250,4 +250,3 @@ int main()
 ## RESULT
 
 Thus the C program to read and display an array of any 6 integer elements using pointer has been executed
-
